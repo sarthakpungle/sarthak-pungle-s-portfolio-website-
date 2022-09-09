@@ -1,7 +1,6 @@
 body{
     background-image: linear-gradient(to right top, #af2143, #b26420, #969b35, #64c887, #12ebeb);
     text-align: center;
-    background-repeat: no-repeat;
     margin:0;
     font-size: 28px;
 }
